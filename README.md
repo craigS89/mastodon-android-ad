@@ -1,11 +1,4 @@
-# Mastodon for Android
-[![Crowdin](https://badges.crowdin.net/mastodon-for-android/localized.svg)](https://crowdin.com/project/mastodon-for-android)
 
-<a href="https://play.google.com/store/apps/details?id=org.joinmastodon.android"><img src="img/google-play-badge.png" height="50"></a>
-
-This is the repository for the official Android app for Mastodon.
-
-Learn more about this app in the [blog post](https://blog.joinmastodon.org/2022/02/official-mastodon-for-android-app-is-coming-soon/).
 
 ## Building
 
